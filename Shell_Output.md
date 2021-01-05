@@ -1,4 +1,4 @@
-#Linux Shell Output
+、#Linux Shell Output
 
 1. 使用echo打印彩色输出
  ``` 
